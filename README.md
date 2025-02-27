@@ -11,8 +11,7 @@ This Flutter application integrates **Stripe** for seamless payments and transac
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/AbdullahAli2005/stripe_integration.git
 ```
 
 ### 2️⃣ Install Dependencies
